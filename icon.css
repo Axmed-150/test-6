@@ -1,0 +1,32 @@
+.icon{
+    width:32px;
+    height:32px;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:contain;
+    margin-right:10px;
+}
+.log{
+    background-image:url(./icon/logout.svg);
+}
+.scren{
+    background-image:url(./icon/scren.svg);
+}
+.pass{
+    background-image:url(./icon/password.svg);
+}
+.message{
+    background-image:url(./icon/message.svg);
+}
+.bill{
+    background-image:url(./icon/billing.svg);
+}
+.app{
+    background-image:url(./icon/app.svg);
+}
+
+
+

@@ -1,0 +1,21 @@
+.bg-color{
+    background-color:var(--color-flamingo);
+}
+.text-color1{
+    color:var(--color-kimberly);
+}
+.bold-blue{
+    color:var(--color-bunting);
+}
+.white{
+    color:var(--color-white);
+}
+.ghost{
+    background-color:var(--color-ghost);
+}
+.fsw{
+    font-size:var(--font-size);
+    font-weight:var(--font-weight);
+    color:var(--color-kimberly);
+    line-height:21px;
+}
